@@ -1,1 +1,2 @@
-i a master
+i am master
+i am master
